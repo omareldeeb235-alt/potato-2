@@ -1,0 +1,58 @@
+body{
+  background-image: url("https://wallpaperaccess.com/full/6259363.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 25px;
+}
+
+p1 {
+    border-style: inset;
+}
+
+title
+{
+  padding : 25px;
+}
+.title {
+	color: rgb(255, 255, 255);
+}
+
+p1{
+  color: rgb(255, 255, 255);
+}
+h2{
+  color: rgb(255, 255, 255);
+}
+
+
+p2{
+  color: rgb(255, 255, 255);
+}
+.ok {
+  margin-top: auto;
+  background: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+}
+.ok {
+  margin-top: auto;
+  background: #222; 
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+.ok button {
+  background-color: #ffffffdc;
+  color: rgba(0, 0, 0, 0.863);
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+.ok button:hover {
+  background-color: #f3f5ff5c; 
+}
+.click button:hover {
+ color: #999daf5c; 
+}
